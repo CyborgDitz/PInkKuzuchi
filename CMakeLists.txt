@@ -1,5 +1,5 @@
 ﻿cmake_minimum_required(VERSION 3.15)
-project(hello_raylib_with_cmake C)
+project(PinkKuzuchi C)
 
 set(CMAKE_C_STANDARD 23)
 
@@ -28,7 +28,7 @@ else()
 endif()
 
 # Create executable with sources
-add_executable(PinkKuzuchi src/main.c
+add_executable(PinkKuzuchi
         main.c
         main.h)
 

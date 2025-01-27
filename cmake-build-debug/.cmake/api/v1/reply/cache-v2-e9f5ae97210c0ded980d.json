@@ -1167,7 +1167,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "hello_raylib_with_cmake"
+			"value" : "PinkKuzuchi"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION",
@@ -2116,6 +2116,42 @@
 			],
 			"type" : "STRING",
 			"value" : "Desktop"
+		},
+		{
+			"name" : "PinkKuzuchi_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Projects/C.Projects/PinkKuzuchi/cmake-build-debug"
+		},
+		{
+			"name" : "PinkKuzuchi_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "PinkKuzuchi_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Projects/C.Projects/PinkKuzuchi"
 		},
 		{
 			"name" : "USE_EXTERNAL_GLFW",

@@ -103,7 +103,7 @@
 					[
 						0
 					],
-					"name" : "hello_raylib_with_cmake",
+					"name" : "PinkKuzuchi",
 					"targetIndexes" : 
 					[
 						0
@@ -146,7 +146,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "PinkKuzuchi::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-PinkKuzuchi-Debug-79aba24ebade2115e108.json",
+					"jsonFile" : "target-PinkKuzuchi-Debug-eb3b760e752fa831e7f3.json",
 					"name" : "PinkKuzuchi",
 					"projectIndex" : 0
 				},
