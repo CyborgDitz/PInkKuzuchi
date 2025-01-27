@@ -30,7 +30,8 @@ endif()
 # Create executable with sources
 add_executable(PinkKuzuchi
         main.c
-        main.h)
+        main.h
+        src/Global.h)
 
 # Link raylib to your target
 target_link_libraries(PinkKuzuchi PRIVATE raylib)
