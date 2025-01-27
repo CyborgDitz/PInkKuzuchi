@@ -33,7 +33,8 @@ add_executable(PinkKuzuchi
         main.h
         src/Global.h
         src/Player.h
-        src/Ball.h)
+        src/Ball.h
+        src/Block.h)
 
 # Link raylib to your target
 target_link_libraries(PinkKuzuchi PRIVATE raylib)
